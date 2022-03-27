@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\Dennis\Desktop\MPI_Program\MPI_Program\source.cpp(169,10): warning C4101: 'name': unreferenced local variable
+C:\Users\Dennis\Desktop\MPI_Program\MPI_Program\source.cpp(171,9): warning C4101: 'i': unreferenced local variable
+  MPI_Program.vcxproj -> C:\Users\Dennis\Desktop\MPI_Program\x64\Debug\MPI_Program.exe
