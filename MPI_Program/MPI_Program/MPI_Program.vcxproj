@@ -145,7 +145,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="source.cpp" />
+    <ClCompile Include="thread.cpp" />
+    <ClCompile Include="mpi.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Resources\Image\brainok.png" />

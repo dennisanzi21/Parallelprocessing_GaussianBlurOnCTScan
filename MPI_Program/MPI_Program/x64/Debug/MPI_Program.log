@@ -1,4 +1,1 @@
-﻿  source.cpp
-C:\Users\Dennis\Desktop\MPI_Program\MPI_Program\source.cpp(169,10): warning C4101: 'name': unreferenced local variable
-C:\Users\Dennis\Desktop\MPI_Program\MPI_Program\source.cpp(171,9): warning C4101: 'i': unreferenced local variable
-  MPI_Program.vcxproj -> C:\Users\Dennis\Desktop\MPI_Program\x64\Debug\MPI_Program.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\dennis\desktop\mpi_program\x64\debug\mpi_program.exe' is denied.
